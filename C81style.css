@@ -1,0 +1,10 @@
+body{
+background-color: cyan;	
+text-align: center;
+border: darkslategray;
+
+}
+.view{
+	list-style:none;
+	display: inline;
+}
